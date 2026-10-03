@@ -1,0 +1,7 @@
+# Runtime dependencies (installed by setup_windows.bat)
+anthropic>=1.11,<2
+streamlit>=1.50,<2
+pillow>=11.0
+python-dotenv>=1.0
+pydantic>=2.7,<3
+pandas>=2.0
